@@ -10,7 +10,7 @@ SwiftCart is a full-stack e-commerce platform built with a modern Android fronte
 - **Features:** MVVM architecture, LiveData, Navigation, Retrofit, Coroutines, JWT-based auth
 
 ### Backend
-- **Language:** Java
+- **Language:** Kotlin
 - **Framework:** Spring Boot (Microservices)
 - **Storage:** PostgreSQL (RDS), AWS S3
 - **Auth:** OAuth2, JWT
