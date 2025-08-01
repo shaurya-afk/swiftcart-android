@@ -2,6 +2,8 @@
 
 SwiftCart is a full-stack e-commerce platform built with a modern Android frontend and scalable backend architecture. It supports real-time product browsing, secure user authentication, and high-throughput order processing.
 
+[Swiftcart Backend](https://github.com/shaurya-afk/swiftcart-backend)
+
 ## Tech Stack
 
 ### Frontend (Android)
